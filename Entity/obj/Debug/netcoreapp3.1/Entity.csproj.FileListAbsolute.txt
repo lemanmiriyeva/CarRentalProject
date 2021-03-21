@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\CarRentalProject\Entity\obj\Debug\netcoreapp3.1\Entity.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CarRentalProject\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CarRentalProject\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfo.cs
+C:\Users\User\source\repos\CarRentalProject\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CarRentalProject\Entity\bin\Debug\netcoreapp3.1\Entity.deps.json
+C:\Users\User\source\repos\CarRentalProject\Entity\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\User\source\repos\CarRentalProject\Entity\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\User\source\repos\CarRentalProject\Entity\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\User\source\repos\CarRentalProject\Entity\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\User\source\repos\CarRentalProject\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CopyComplete
+C:\Users\User\source\repos\CarRentalProject\Entity\obj\Debug\netcoreapp3.1\Entity.dll
+C:\Users\User\source\repos\CarRentalProject\Entity\obj\Debug\netcoreapp3.1\Entity.pdb
